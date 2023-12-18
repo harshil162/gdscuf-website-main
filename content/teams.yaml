@@ -1,0 +1,40 @@
+- name: Moinak Dey
+  role: President
+  img: ../images/1651879915810.jpg
+  descs:
+    - My goal is to give members the skills they need to 
+    - succeed in the tech industry.
+  social:
+    linkedin: https://www.linkedin.com/in/moinakdey/
+    instagram: https://www.instagram.com/moinakdey/
+
+- name: Andrew Delpuech
+  role: Vice President
+  img: ../images/1694738658095.jpg
+  descs:
+    - Passionate about software 
+    - engineering, and teaching
+    - useful industry skills.
+  social:
+    linkedin: https://www.linkedin.com/in/andrew-delpuech/
+
+- name: Maclane Fisher
+  role: Treasurer
+  img: ../images/1615834215781.jpg
+  descs:
+    - My goal is to create a space for developers 
+    - where everyone can feel included and 
+    - like their voice matters.
+  social:
+    linkedin: https://www.linkedin.com/in/maclane-fisher/
+    instagram: https://www.instagram.com/maclane_fisher/
+
+- name: Harshil Pahuja
+  role: Advertising Lead
+  img: ../images/HarshilPahuja2.jpg
+  descs:
+    - Passionate about the field of computer science and about modern-day technological developments.
+  social:
+    linkedin: https://www.linkedin.com/in/harshil-pahuja/
+    instagram: https://www.instagram.com/harshil.pahuja/
+

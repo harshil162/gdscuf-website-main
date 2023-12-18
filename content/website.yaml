@@ -1,0 +1,9 @@
+- title: 'Developer Student Club' # for <title> tag
+  description: 'Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems using Google developer technologies.' #Meta description
+  university: 'University of Florida'
+  lang: 'en'
+  social:
+    youtube: 'https://www.youtube.com/channel/UCeunDKlL7PLdnecLW9SiUeg'
+    github: 'https://github.com/Developer-Student-Club-UF'
+    instagram: 'https://www.instagram.com/dsc.uf/'
+    discord: 'https://discord.gg/Bn9vzMHv' 

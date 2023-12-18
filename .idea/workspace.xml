@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38274486-ba12-4b4a-8958-d41f9656562a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/content/faqs.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/content/faqs.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/teams/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/technologies/android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/technologies/cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/technologies/mi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/images/technologies/web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/location.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/teams.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/content/teams.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/technologies.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/content/technologies.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/website.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/content/website.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Faqs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Faqs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Opportunities.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Opportunities.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Opportunity.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Opportunity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Overview.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Overview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Overviews.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Overviews.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Teams.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Teams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Technologies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Technology.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Technology.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index/Workshops.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index/Workshops.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/seo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/seo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dsc-logo-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dsc-logo-sapienza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dsc-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/dsc-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/header/diversity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sH4TAZO9Ot85NfXQpIkxPfiLmD" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38274486-ba12-4b4a-8958-d41f9656562a" name="Default Changelist" comment="" />
+      <created>1620516186090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620516186090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
